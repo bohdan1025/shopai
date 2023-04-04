@@ -1,0 +1,2 @@
+# shopai
+Shopify OpenAI Integration
